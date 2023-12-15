@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.titulo{
+	text-align: center;
+}
+caption{
+	text-align: center;
+	caption-side: top;
+	font-size: 3.0;
+	border-collapse: collapse;
+}
+table{
+	border:solid black;
+	border-collapse: collapse;
+	
+}
+table{
+	margin-inline-start: 550px;
+	height:40 ;
+	
+}
+.pie{
+	padding:40px;
+	background-color: grey;
+	border-collapse:collapse ;
+	color:white;
+	text-align: center;
+	
+}
+.azul{
+	background-color: royalblue;
+}
+.azulClaro{
+	background-color: lightskyblue;
+}
+tfoot{
+	border:0px;
+	empty-cells: hide;
+}
